@@ -51,7 +51,6 @@ Check if any IPs are malicious using AbuseIPDB.
 Block malicious IPs using Windows Firewall.
 6. Check Blocked IPs in Windows Firewall (Optional)
 To view the blocked IPs:
-
 bash
 Copy
 Edit
