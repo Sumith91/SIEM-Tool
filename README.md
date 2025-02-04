@@ -1,8 +1,6 @@
 # SIEM-Tool
 SIEM Tool is a lightweight Security Information and Event Management (SIEM) system that passively analyzes Windows log files, detects malicious IP addresses, and automatically blocks threats using Windows Firewall. This tool helps in identifying potential cyber threats based on real-time log analysis.
 1. Download the Project Files
-Go to the GitHub repository link shared with you (e.g., https://github.com/your-username/SIEM-Tool).
-Click on the "Code" button (green) and select "Download ZIP".
 Extract the ZIP file to a folder on your computer.
 2. Install Python (if not already installed)
 Download Python from python.org.
